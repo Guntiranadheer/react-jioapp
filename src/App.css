@@ -1,0 +1,440 @@
+*{
+  margin: 0px;
+  padding: opx;
+  box-sizing: border-box;
+
+}
+.nav-section{
+  background-color: blue;
+  height: 70px;
+  color: white;
+
+}
+ul, li{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 15px;
+  margin-left: 35px;
+  
+ 
+}
+ul li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+  color: black;
+
+}
+.mobile{
+
+}
+.search-icon ,i{
+  position: absolute;
+  margin-left: 80%;
+  margin-top: 20px;
+  color: blue;
+  background-color: white;
+  border-radius: 15px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  top: 10px;
+}
+.Login-icon{
+  position: absolute;
+  margin-left: 83%;
+  margin-top: 20px;
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  color: blue;
+  border-radius: 15px;
+  text-align: center;
+  top: 10px;
+
+}
+.input1{
+background-color: white;
+width:300px;
+  border: white;
+  height: 40px;
+  border-radius: 10px;
+}
+.reacharge-btn{
+  background-color: white;
+  width: 100px;
+  border: none;
+  border-radius: 20px;
+  margin: 10px;
+  height: 40px;
+
+}
+.cards{
+  margin-left: 50px;
+}
+.blue-card{
+margin-left: 380px;
+}
+.image1{
+  height: 600px;
+  width: 100vw;
+  border-radius: 30px;
+  background-size: cover;
+}
+.prepaid{
+  background-color: darkblue;
+  border-radius: 25px;
+}
+.jio-img{
+  height: 50px;
+}
+.sim{
+  margin-left: 500px;
+  padding: 20px;
+}
+.grid-cards{
+  background-color:lightsteelblue;
+  height: 400px;
+  border: 5px solid red;
+ 
+ 
+}
+.layouts{
+  margin-top: 600px;
+  border-radius: 50px;
+  border: 5px solid red;
+  margin: 1px;
+
+}
+.image-card{
+  height: 600px;
+  width: 100vw;
+}
+.girl-image{
+  height: 600px;
+  width: 80%;
+  margin-left: 150px;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.port-number{
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.sim-btn{
+  border-radius: 15px;
+  background-color: cornflowerblue;
+  color: black;
+  border: none;
+}
+.sim-btn1{
+  border-radius: 15px;
+  background-color: blue;
+  color: black;
+  border: 1px solid white
+}
+.blue{
+  background-color: lightsteelblue;
+  height: 700px;
+  width: 100vw;
+ 
+}
+.heading{
+  font-size: 60px;
+}
+.pre1{
+  margin-left: 700px;
+  margin-top: 10px;
+  border-radius: 30px;
+
+}
+.post{
+  background-color: azure;
+  border-radius: 20px;
+  margin: 2px;
+}
+.youtube-icon{
+  height: 30px;
+  margin-right: 320px;
+
+}
+.p2{
+margin-left: 50px;
+position: absolute;
+margin-top: 50px;
+
+}
+.gb{
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 120px;
+  
+}
+.reach{
+  background-color: blue;
+  width: 100px;
+  border-radius:20px;
+  color: white;
+  border: none;
+}
+.reach1{
+
+  width: 100px;
+  border-radius:20px;
+  color: black;
+  border: none;
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 190px;
+}
+.c1{
+
+border-radius: 20px;
+margin: 5px;
+}
+.c2{
+ 
+  border-radius: 25px;
+}
+.c3{
+
+border-radius: 20px;
+margin-left: 855px;
+margin-top:2px;
+position: absolute;
+ width:430px;
+
+}
+.view-btn{
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  color: blue;
+  border: none;
+  margin: 10px;
+  margin-left: 550px;
+
+}
+.trending{
+  text-align: left;
+
+}
+.wow-image{
+  height: 300px;
+  width: 390px;
+  border-radius: 15px;
+  margin-left: 10px;
+
+}
+.super-card{
+  width:410px;
+  border: none;
+}
+.para{
+  text-align: left;
+}
+.color-image{
+  height: 600px;
+  width: 80%;
+}
+.bouquet{
+position: absolute;
+margin-top: 251px;
+margin-left: 100px;
+}
+.view-btn1{
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  color: blue;
+  border: none;
+  margin: 15px;
+  position: absolute;
+  margin-right: 100%;
+}
+.footer-section{
+  background-color: blue;
+  height: 400px;
+  width: 100%;
+}
+.footer-heading{
+margin-left: 500px;
+margin-top: 100px;
+position: absolute;
+font-size: 50px;
+}
+.footer-btn{
+  background-color: blue;
+  border: 1px solid white;
+  height: 50px;
+  width: 150px;
+  border-radius: 20px;
+  color: white;
+
+}
+.footer-buttons{
+  position: absolute;
+ display: flex;
+ flex-direction: row;
+ margin: 10px;
+ gap: 30px;
+ margin-left: 400px;
+ margin-top: 250px;
+}
+.ul-tags{
+  color: black;
+  gap: 5px;
+  padding: 10px;
+}
+.footer-ul-tag2{
+  margin-right: 100px;
+  padding: 50px;
+}
+.x-icon{
+  color: black; 
+}
+.img1{
+  height: 50px;
+  width: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.download{
+  font-size: 30px;
+  margin-right: 5px;
+}
+.google{
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 120px;
+}
+.video-tag{
+  width: 100vw;
+  height: 100vh;
+}
+.speed{
+  margin-left: 670px;
+ padding: 10px;
+}
+.city{
+  margin-left: 450px;
+  padding: 10px;
+}
+.enter{
+  background-color: white;
+  border: none;
+  width: 300px;
+  border-radius: 10px;
+
+}
+.get{
+  border: none;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}
+.upgrade{
+  margin-left: 230px;
+}
+.paragraph{
+  margin-left: 240px;
+}
+.plus-icon{
+  color: black;
+}
+.super-upgrade:hover{
+  text-decoration: underline;
+  color: blue;
+}
+.same{
+  height: 100vh;
+  width: 100vw;
+}
+.input2{
+  background-color: white;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  margin: 5px;
+}
+.credited{
+  margin-left: 380px;
+  padding: 10px;
+}
+.watch{
+  height: 500px;
+  width: 700px;
+  float:right;
+  margin-left: 650px;
+  position: absolute;
+}
+.shows{
+margin-left:100px;
+padding: 200px;
+
+}
+.watch1{
+  height: 500px;
+  width: 700px;
+  float:left;
+  margin-left: 110px;
+  position: absolute;
+}
+.shows1{
+margin-left:800px;
+padding: 200px;
+}
+.m1{
+  width: 300px;
+  height: 300px;
+}
+.card-c{
+  width: 300px;
+  margin-left: 200px;
+}
+.jiomart{
+  background-color: blue;
+  border: none;
+  height: 50px;
+  width: 150px;
+  color: white;
+  border-radius: 20px;
+}
+.larn{
+  border: none;
+  height: 50px;
+  width: 150px;
+  color: black;
+  border-radius: 20px;
+  
+
+}
+.jio{
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  color: blue;
+  border-radius: 15px;
+}
+
+.back{
+  background-color: lightsteelblue;
+  height: 400px;
+  width: 100vw;
+
+}
+.nice-card{
+  width: 1600px;
+  height: 300px;
+  padding: 60px;
+  margin: 20px;
+  gap: 100px;
+}
